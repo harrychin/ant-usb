@@ -1,6 +1,6 @@
 [package]
 name = "ant-usb"
-version = "0.1.0"
+version = "0.0.1"
 authors = ["Harrison Chin <harrison.chin@thisisant.com>"]
 description = "A Rust crate providing an interface to USB devices running the ANT Wireless Protocol."
 license = "Apache-2.0"
